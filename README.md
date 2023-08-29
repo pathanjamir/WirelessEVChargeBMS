@@ -23,8 +23,8 @@ Wireless charging technology eliminates the need for physical connectors, provid
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/WirelessEVChargerBMS.git`
-2. Navigate to the project directory: `cd WirelessEVChargerBMS`
+1. Clone this repository: `git clone https://github.com/your-username/WirelessEVChargeBMS.git`
+2. Navigate to the project directory: `cd WirelessEVChargeBMS`
 3. [Additional Installation Steps If Needed]
 
 ### Usage
